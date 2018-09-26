@@ -1,3 +1,11 @@
+/*
+    Criado em:
+        25/09/18 - por Mario Silva
+
+    Última edição em:
+        25/09/18 - por Mario Silva
+*/
+
 //sistema de arquivos
 var fs = require("fs");
 //requests
