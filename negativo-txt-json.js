@@ -40,9 +40,9 @@ function converteNegativo(){
             palavras.palavras.push({"palavra": dados[i]});
         }
 
-        console.log(palavras);
         fs.writeFile('./dicionarios/negativo.json', JSON.stringify(palavras, null, 4), (err) => {  
             if (err) throw err;
+            console.log("Arquivo criado com sucesso.");
         });
     });
 
