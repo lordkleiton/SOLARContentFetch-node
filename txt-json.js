@@ -19,5 +19,5 @@ let data = ''
 readStream.on('data', function(chunk) {
     data += chunk;
 }).on('end', function() {
-    console.log(data);
+    console.log(data.split("\n").length);
 });
