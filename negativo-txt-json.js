@@ -18,8 +18,6 @@ que não permitiram, entao ate ou eu ter tempo ou ter outra ideia, ficam separad
 var path = require('path');
 let data = '';
 
-converteNegativo();
-
 function converteNegativo(){
 
     var fs = require('fs');
