@@ -5,20 +5,34 @@ var classifier = bayes();
 var fs = require("fs");
 
 //variáveis relacionadas ao json de senhas
-var arquivo = fs.readFileSync("./dicionarios/negativo.json");
-var conteudo = JSON.parse(arquivo);
-var palavras = conteudo.palavras;
-var tamanho = Object.keys(palavras).length;
+var arquivoN = fs.readFileSync("./dicionarios/negativo.json");
+var conteudoN = JSON.parse(arquivoN);
+var palavrasN = conteudoN.palavras;
+var tamanhoN = Object.keys(palavrasN).length;
 
-var dicionario = [];
+var arquivoP = fs.readFileSync("./dicionarios/positivo.json");
+var conteudoP = JSON.parse(arquivoP);
+var palavrasP = conteudoP.palavras;
+var tamanhoP = Object.keys(palavrasP).length;
 
-for (var i = 0; i < tamanho; i++){
-    dicionario.push(palavras[i].palavra);
+var dicionarioN = [];
+var dicionarioP = [];
+
+for (var i = 0; i < tamanhoN; i++){
+    dicionarioN.push(palavrasN[i].palavra);
 }
 
-classifier.learn(dicionario.toString(), 'negative');
+for (var i = 0; i < tamanhoP; i++){
+    dicionarioP.push(palavrasP[i].palavra);
+}
 
-classifier.categorize('oi, meu nome é mário silva e eu amo muito mesmo essa função, é super interessante e me sinto muito motivado a continuar estudando sobre esse assunto');
+//ensina ao algoritmo as palavras negativas e positivas
+classifier.learn(dicionarioN.toString(), 'negative');
+classifier.learn(dicionarioP.toString(), 'positive');
+
+
+//categoriza a mensagem
+console.log(classifier.categorize(''));
 
 // serialize the classifier's state as a JSON string.
 var stateJson = classifier.toJson()
@@ -26,4 +40,5 @@ var stateJson = classifier.toJson()
 // load the classifier back from its JSON representation.
 var revivedClassifier = bayes.fromJson(stateJson)
 
-console.log(stateJson);
+console.log("negativas: ", tamanhoN);
+console.log("positivas: ", tamanhoP);
