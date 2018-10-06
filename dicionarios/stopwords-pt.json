@@ -1,0 +1,664 @@
+{
+    "palavras": [
+        {
+            "palavra": "de"
+        },
+        {
+            "palavra": "a"
+        },
+        {
+            "palavra": "o"
+        },
+        {
+            "palavra": "que"
+        },
+        {
+            "palavra": "e"
+        },
+        {
+            "palavra": "do"
+        },
+        {
+            "palavra": "da"
+        },
+        {
+            "palavra": "em"
+        },
+        {
+            "palavra": "um"
+        },
+        {
+            "palavra": "para"
+        },
+        {
+            "palavra": "é"
+        },
+        {
+            "palavra": "com"
+        },
+        {
+            "palavra": "não"
+        },
+        {
+            "palavra": "uma"
+        },
+        {
+            "palavra": "os"
+        },
+        {
+            "palavra": "no"
+        },
+        {
+            "palavra": "se"
+        },
+        {
+            "palavra": "na"
+        },
+        {
+            "palavra": "por"
+        },
+        {
+            "palavra": "mais"
+        },
+        {
+            "palavra": "as"
+        },
+        {
+            "palavra": "dos"
+        },
+        {
+            "palavra": "como"
+        },
+        {
+            "palavra": "mas"
+        },
+        {
+            "palavra": "foi"
+        },
+        {
+            "palavra": "ao"
+        },
+        {
+            "palavra": "ele"
+        },
+        {
+            "palavra": "das"
+        },
+        {
+            "palavra": "tem"
+        },
+        {
+            "palavra": "à"
+        },
+        {
+            "palavra": "seu"
+        },
+        {
+            "palavra": "sua"
+        },
+        {
+            "palavra": "ou"
+        },
+        {
+            "palavra": "ser"
+        },
+        {
+            "palavra": "quando"
+        },
+        {
+            "palavra": "muito"
+        },
+        {
+            "palavra": "há"
+        },
+        {
+            "palavra": "nos"
+        },
+        {
+            "palavra": "já"
+        },
+        {
+            "palavra": "está"
+        },
+        {
+            "palavra": "eu"
+        },
+        {
+            "palavra": "também"
+        },
+        {
+            "palavra": "só"
+        },
+        {
+            "palavra": "pelo"
+        },
+        {
+            "palavra": "pela"
+        },
+        {
+            "palavra": "até"
+        },
+        {
+            "palavra": "isso"
+        },
+        {
+            "palavra": "ela"
+        },
+        {
+            "palavra": "entre"
+        },
+        {
+            "palavra": "era"
+        },
+        {
+            "palavra": "depois"
+        },
+        {
+            "palavra": "sem"
+        },
+        {
+            "palavra": "mesmo"
+        },
+        {
+            "palavra": "aos"
+        },
+        {
+            "palavra": "ter"
+        },
+        {
+            "palavra": "seus"
+        },
+        {
+            "palavra": "quem"
+        },
+        {
+            "palavra": "nas"
+        },
+        {
+            "palavra": "me"
+        },
+        {
+            "palavra": "esse"
+        },
+        {
+            "palavra": "eles"
+        },
+        {
+            "palavra": "estão"
+        },
+        {
+            "palavra": "você"
+        },
+        {
+            "palavra": "tinha"
+        },
+        {
+            "palavra": "foram"
+        },
+        {
+            "palavra": "essa"
+        },
+        {
+            "palavra": "num"
+        },
+        {
+            "palavra": "nem"
+        },
+        {
+            "palavra": "suas"
+        },
+        {
+            "palavra": "meu"
+        },
+        {
+            "palavra": "às"
+        },
+        {
+            "palavra": "minha"
+        },
+        {
+            "palavra": "têm"
+        },
+        {
+            "palavra": "numa"
+        },
+        {
+            "palavra": "pelos"
+        },
+        {
+            "palavra": "elas"
+        },
+        {
+            "palavra": "havia"
+        },
+        {
+            "palavra": "seja"
+        },
+        {
+            "palavra": "qual"
+        },
+        {
+            "palavra": "será"
+        },
+        {
+            "palavra": "nós"
+        },
+        {
+            "palavra": "tenho"
+        },
+        {
+            "palavra": "lhe"
+        },
+        {
+            "palavra": "deles"
+        },
+        {
+            "palavra": "essas"
+        },
+        {
+            "palavra": "esses"
+        },
+        {
+            "palavra": "pelas"
+        },
+        {
+            "palavra": "este"
+        },
+        {
+            "palavra": "fosse"
+        },
+        {
+            "palavra": "dele"
+        },
+        {
+            "palavra": "tu"
+        },
+        {
+            "palavra": "te"
+        },
+        {
+            "palavra": "vocês"
+        },
+        {
+            "palavra": "vos"
+        },
+        {
+            "palavra": "lhes"
+        },
+        {
+            "palavra": "meus"
+        },
+        {
+            "palavra": "minhas"
+        },
+        {
+            "palavra": "teu"
+        },
+        {
+            "palavra": "tua"
+        },
+        {
+            "palavra": "teus"
+        },
+        {
+            "palavra": "tuas"
+        },
+        {
+            "palavra": "nosso"
+        },
+        {
+            "palavra": "nossa"
+        },
+        {
+            "palavra": "nossos"
+        },
+        {
+            "palavra": "nossas"
+        },
+        {
+            "palavra": "dela"
+        },
+        {
+            "palavra": "delas"
+        },
+        {
+            "palavra": "esta"
+        },
+        {
+            "palavra": "estes"
+        },
+        {
+            "palavra": "estas"
+        },
+        {
+            "palavra": "aquele"
+        },
+        {
+            "palavra": "aquela"
+        },
+        {
+            "palavra": "aqueles"
+        },
+        {
+            "palavra": "aquelas"
+        },
+        {
+            "palavra": "isto"
+        },
+        {
+            "palavra": "aquilo"
+        },
+        {
+            "palavra": "estou"
+        },
+        {
+            "palavra": "está"
+        },
+        {
+            "palavra": "estamos"
+        },
+        {
+            "palavra": "estão"
+        },
+        {
+            "palavra": "estive"
+        },
+        {
+            "palavra": "esteve"
+        },
+        {
+            "palavra": "estivemos"
+        },
+        {
+            "palavra": "estiveram"
+        },
+        {
+            "palavra": "estava"
+        },
+        {
+            "palavra": "estávamos"
+        },
+        {
+            "palavra": "estavam"
+        },
+        {
+            "palavra": "estivera"
+        },
+        {
+            "palavra": "estivéramos"
+        },
+        {
+            "palavra": "esteja"
+        },
+        {
+            "palavra": "estejamos"
+        },
+        {
+            "palavra": "estejam"
+        },
+        {
+            "palavra": "estivesse"
+        },
+        {
+            "palavra": "estivéssemos"
+        },
+        {
+            "palavra": "estivessem"
+        },
+        {
+            "palavra": "estiver"
+        },
+        {
+            "palavra": "estivermos"
+        },
+        {
+            "palavra": "estiverem"
+        },
+        {
+            "palavra": "hei"
+        },
+        {
+            "palavra": "há"
+        },
+        {
+            "palavra": "havemos"
+        },
+        {
+            "palavra": "hão"
+        },
+        {
+            "palavra": "houve"
+        },
+        {
+            "palavra": "houvemos"
+        },
+        {
+            "palavra": "houveram"
+        },
+        {
+            "palavra": "houvera"
+        },
+        {
+            "palavra": "houvéramos"
+        },
+        {
+            "palavra": "haja"
+        },
+        {
+            "palavra": "hajamos"
+        },
+        {
+            "palavra": "hajam"
+        },
+        {
+            "palavra": "houvesse"
+        },
+        {
+            "palavra": "houvéssemos"
+        },
+        {
+            "palavra": "houvessem"
+        },
+        {
+            "palavra": "houver"
+        },
+        {
+            "palavra": "houvermos"
+        },
+        {
+            "palavra": "houverem"
+        },
+        {
+            "palavra": "houverei"
+        },
+        {
+            "palavra": "houverá"
+        },
+        {
+            "palavra": "houveremos"
+        },
+        {
+            "palavra": "houverão"
+        },
+        {
+            "palavra": "houveria"
+        },
+        {
+            "palavra": "houveríamos"
+        },
+        {
+            "palavra": "houveriam"
+        },
+        {
+            "palavra": "sou"
+        },
+        {
+            "palavra": "somos"
+        },
+        {
+            "palavra": "são"
+        },
+        {
+            "palavra": "era"
+        },
+        {
+            "palavra": "éramos"
+        },
+        {
+            "palavra": "eram"
+        },
+        {
+            "palavra": "fui"
+        },
+        {
+            "palavra": "foi"
+        },
+        {
+            "palavra": "fomos"
+        },
+        {
+            "palavra": "foram"
+        },
+        {
+            "palavra": "fora"
+        },
+        {
+            "palavra": "fôramos"
+        },
+        {
+            "palavra": "seja"
+        },
+        {
+            "palavra": "sejamos"
+        },
+        {
+            "palavra": "sejam"
+        },
+        {
+            "palavra": "fosse"
+        },
+        {
+            "palavra": "fôssemos"
+        },
+        {
+            "palavra": "fossem"
+        },
+        {
+            "palavra": "for"
+        },
+        {
+            "palavra": "formos"
+        },
+        {
+            "palavra": "forem"
+        },
+        {
+            "palavra": "serei"
+        },
+        {
+            "palavra": "será"
+        },
+        {
+            "palavra": "seremos"
+        },
+        {
+            "palavra": "serão"
+        },
+        {
+            "palavra": "seria"
+        },
+        {
+            "palavra": "seríamos"
+        },
+        {
+            "palavra": "seriam"
+        },
+        {
+            "palavra": "tenho"
+        },
+        {
+            "palavra": "tem"
+        },
+        {
+            "palavra": "temos"
+        },
+        {
+            "palavra": "tém"
+        },
+        {
+            "palavra": "tinha"
+        },
+        {
+            "palavra": "tínhamos"
+        },
+        {
+            "palavra": "tinham"
+        },
+        {
+            "palavra": "tive"
+        },
+        {
+            "palavra": "teve"
+        },
+        {
+            "palavra": "tivemos"
+        },
+        {
+            "palavra": "tiveram"
+        },
+        {
+            "palavra": "tivera"
+        },
+        {
+            "palavra": "tivéramos"
+        },
+        {
+            "palavra": "tenha"
+        },
+        {
+            "palavra": "tenhamos"
+        },
+        {
+            "palavra": "tenham"
+        },
+        {
+            "palavra": "tivesse"
+        },
+        {
+            "palavra": "tivéssemos"
+        },
+        {
+            "palavra": "tivessem"
+        },
+        {
+            "palavra": "tiver"
+        },
+        {
+            "palavra": "tivermos"
+        },
+        {
+            "palavra": "tiverem"
+        },
+        {
+            "palavra": "terei"
+        },
+        {
+            "palavra": "terá"
+        },
+        {
+            "palavra": "teremos"
+        },
+        {
+            "palavra": "terão"
+        },
+        {
+            "palavra": "teria"
+        },
+        {
+            "palavra": "teríamos"
+        },
+        {
+            "palavra": "teriam"
+        }
+    ]
+}
